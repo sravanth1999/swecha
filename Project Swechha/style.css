@@ -1,0 +1,67 @@
+﻿body{
+background:linear-gradient(#ffd89b,#19547b);
+}
+
+#logo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+height: 30%;
+}
+
+#sir{
+display: block;
+margin-left: auto;
+margin-right: auto;
+border:2px solid;
+
+}
+
+header{
+text-align: center;
+}
+
+h2{
+text-align: center;
+
+}
+
+.text{
+text-align: center;
+font-style: Bold;
+}
+
+a{
+background:linear-gradient(#2193b0,#6dd5ed);
+display: block;
+text-decoration: none;
+text-align: center;
+border: 2px solid;
+color: #000000;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+font-size: 110%;
+height: 25%;
+width: 25%;
+}
+
+a:hover{
+background:linear-gradient(#ddd6f3,#faaca8);
+}
+
+#details{
+padding: 10px;
+font-size: 125%;
+text-align: justify;
+}
+
+div{
+background: #141e30; 
+text-align: center;
+color:#FFFFFF;
+font-size:125%;
+padding: 10px;
+//#134e5e
+}
